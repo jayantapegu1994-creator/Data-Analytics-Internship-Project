@@ -1,0 +1,3 @@
+Enterprise Data Reconciliation & CFO Dashboard
+
+I cleaned and reconciled customer, transaction-log, and exchange-rate data using SQL and Python. The project uses a SQL window function for the latest customer status, Regex for raw log extraction, forward-fill for weekend exchange rates, and vectorized Pandas operations for the final reconciliation. The dashboard shows monthly USD revenue and the top 5 customers.
